@@ -11,11 +11,9 @@ class ConfigProvider
     public function __invoke(): array
     {
         return [
-            'dependencies' => [
-                'invokables' => [
-                    SessionMiddleware::class => SessionMiddleware::class,
-                ]
-            ]
+            'services' => [
+                SessionMiddleware::class => SessionMiddleware::class,
+            ],
         ];
     }
 }
