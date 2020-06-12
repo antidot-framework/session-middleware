@@ -43,8 +43,8 @@ return static function (Application $app) : void {
 
 ## Usage
 
-The session will be stored as request attribute, Ffr example using a Request handler, and it will be available in middleware 
-loaded after it to.
+The session will be stored as request attribute, For example using a Request handler, and it will be available in middleware 
+loaded after it too.
 
 ```php
 <?php
