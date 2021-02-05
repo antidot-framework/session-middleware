@@ -1,9 +1,10 @@
 # Antidot Session Middleware
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/build.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/build-status/master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+[![link-packagist](https://img.shields.io/packagist/v/antidot-fw/session.svg?style=flat-square)](https://packagist.org/packages/antidot-fw/session)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/quality-score.png?b=1.x.x)](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/?branch=1.x.x)
+[![Code Coverage](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/coverage.png?b=1.x.x)](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/?branch=1.x.x)
+[![type-coverage](https://shepherd.dev/github/antidot-framework/react-framework/coverage.svg)](https://shepherd.dev/github/antidot-framework/react-framework)
+[![Build Status](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/badges/build.png?b=1.x.x)](https://scrutinizer-ci.com/g/antidot-framework/session-middleware/build-status/1.x.x)
 
 PSR-15 middleware that allows having [Aura Session](https://github.com/auraphp/Aura.Session) inside our request attributes.
 
